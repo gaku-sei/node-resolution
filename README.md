@@ -1,0 +1,1 @@
+`npm start` or `yarn start` will run `./src/other.js`.
